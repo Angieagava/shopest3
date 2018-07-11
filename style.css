@@ -122,10 +122,6 @@ h2{
     background-position: center center;
     height:300px;
 }
-.bg1 {position: relative;}
-.bg1:hover {
-    opacity:.5;
-}
 
 .decor {
      padding: 1rem;
