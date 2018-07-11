@@ -110,6 +110,18 @@ h2{
     background-position: center center;
     height:300px;
 }
+.bg13 { 
+    background-image: url('https://images.pexels.com/photos/747510/pexels-photo-747510.jpeg?auto=compress&cs=tinysrgb&h=350');
+    background-size:cover;
+    background-position: center center;
+    height:300px;
+}
+.bg14 { 
+    background-image: url('https://images.pexels.com/photos/1185440/pexels-photo-1185440.jpeg?auto=compress&cs=tinysrgb&h=350');
+    background-size:cover;
+    background-position: center center;
+    height:300px;
+}
 .bg1 {position: relative;}
 .bg1:hover {
     opacity:.5;
