@@ -32,6 +32,10 @@ h2{
 .video {
     padding: 5%;
 }
+
+.video img {
+	width: 100%;
+}
 .video p { padding: 0 15%; text-align: center;}
 .product {margin: 5%;}
 .product img { width: 100%; max-width:100%;height: 100%;overflow:hidden; }
